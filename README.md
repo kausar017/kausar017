@@ -1,7 +1,8 @@
 
 ![WEV-DEVOLOPAR](https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true)
-### Hi there 👋, my name is KAUSAR MIA
-#### WEV-DEVOLOPAR
+# Hi there 👋,
+#### my name is KAUSAR MIA
+### WEV-DEVOLOPAR
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
