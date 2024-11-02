@@ -3,9 +3,10 @@
 # Hi there 👋,
 # my name is: KAUSAR MIA
 ### WEV-DEVOLOPAR
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=HI😎;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=50&center=true&vCenter=true&width=600&height=80&lines=HI😎;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+
 
 
 <p align="center">
