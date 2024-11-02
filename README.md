@@ -1,16 +1,18 @@
 
 ![WEV-DEVOLOPAR](https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true)
 # Hi there 👋,
-# my name is KAUSAR MIA
+# my name is: KAUSAR MIA
 ### WEV-DEVOLOPAR
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=HI😎;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+</p>
+
 
 <p align="center">
   <img alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="500px"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=HI😎;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
-</p>
+
 
 
 
