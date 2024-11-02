@@ -5,6 +5,10 @@
 ### WEV-DEVOLOPAR
 
 
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
+
+
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
