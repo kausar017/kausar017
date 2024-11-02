@@ -7,6 +7,9 @@
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=HI😎;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+</p>
 
 
 
