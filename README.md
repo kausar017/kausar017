@@ -97,9 +97,6 @@
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, Figma, Photoshop  
 
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -131,9 +128,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
-###
+### ![Languages Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_dev_logo.svg) Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 
 
