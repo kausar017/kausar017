@@ -127,13 +127,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kausar017)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-### Top Languages
-
 ### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10" width="100%" height="500px" style="object-fit: cover;" />
 </p>
 
 
