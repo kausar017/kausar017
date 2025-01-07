@@ -1,4 +1,4 @@
-<img src="https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true" alt="WEB-DEVELOPER" style="height: 200px; width: 100%;" />
+<img src="https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true" alt="WEB-DEVELOPER" style="height: 50%; width: 100%;" />
 
 
 
