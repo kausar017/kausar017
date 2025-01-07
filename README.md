@@ -142,10 +142,6 @@
 </p>
 
 
-<h2 align="left">Dynamic Chart</h2>
-<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['January','February','March'],datasets:[{label:'Sales',data:[150,200,250]}]}}" alt="Dynamic Chart" />
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
 
