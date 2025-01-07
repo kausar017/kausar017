@@ -126,14 +126,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kausar017)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017)](https://github.com/anuraghazra/github-readme-stats)
 
-### ![Languages Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_dev_logo.svg) Top Languages
+
+### ![Tech Logo](https://img.shields.io/badge/Tech_Stack-Logo-blue) Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 
 
 
