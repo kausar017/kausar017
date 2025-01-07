@@ -73,13 +73,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kausar017)
 
-![GitHub metrics](https://metrics.lecoq.io/kausar017)
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/kausar017)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kausar017)
 
 
 
