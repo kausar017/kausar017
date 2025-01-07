@@ -142,14 +142,6 @@
 </p>
 
 
-<h2 align="left">snack</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/kausar017/kausar017/output/snake.svg" alt="Snake animation" />
-###
-
-
 <h2 align="left">Dynamic Chart</h2>
 <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['January','February','March'],datasets:[{label:'Sales',data:[150,200,250]}]}}" alt="Dynamic Chart" />
 
