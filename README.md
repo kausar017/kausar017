@@ -145,30 +145,31 @@
 ---
 ##👋 About Me
 </br>
-Hi there! I'm Kausar Mia 👨‍💻
+## Hi there! I'm Kausar Mia 👨‍💻
 </br>
-🌟 Aspiring Full-Stack Developer:
-I'm a passionate programmer with a strong interest in web and software development. My goal is to become a full-stack developer and build innovative and impactful projects.
+####🌟 Aspiring Full-Stack Developer:
+#### I'm a passionate programmer with a strong interest in web and software development. My goal is to become a full-stack developer and build innovative and impactful projects.
 
-📚 Lifelong Learner:
+## 📚 Lifelong Learner:
 #### Currently, I'm diving deep into React.js, Node.js, and JavaScript.
-# I love learning new technologies and improving my skills every day.
+#### I love learning new technologies and improving my skills every day.
 
-💼 Freelancing Enthusiast:
-# I aspire to work on freelance and remote projects to collaborate with clients and teams from around the world.
+ ## 💼 Freelancing Enthusiast:
+#### I aspire to work on freelance and remote projects to collaborate with clients and teams from around the world.
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Tools: Git, GitHub, VS Code
-🏠 Hometown:
-# I’m from Mymensingh, Bangladesh, and currently living in Dhaka.
+## Frontend: HTML, CSS, JavaScript, React.js
+## Backend: Node.js, Express.js
+## Tools: Git, GitHub, VS Code
+
+## 🏠 Hometown:
+#### I’m from Mymensingh, Bangladesh, and currently living in Dhaka.
 
 🎯 Future Goals:
 
-# Work on large-scale projects and contribute to impactful solutions.
-# Explore and master new technologies to stay ahead in the tech world.
+#### Work on large-scale projects and contribute to impactful solutions.
+#### Explore and master new technologies to stay ahead in the tech world.
 
 ---
 
