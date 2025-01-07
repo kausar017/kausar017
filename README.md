@@ -76,11 +76,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kausar017&show_icons=true&theme=radical)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=kausar017&theme=dark&border_radius=5&hide_border=true)
-
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
 
 ![GitHub Followers](https://img.shields.io/github/followers/kausar017?style=social&color=purple)
