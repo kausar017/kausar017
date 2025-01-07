@@ -53,9 +53,9 @@
 
 ## 📂 Featured Projects
 
-- **[CINE HUB]([https://github.com/kausar017/movie-portal](https://b-10-a10-cine-hub.netlify.app/)):** A responsive movie portal with add, delete, and favorite functionalities.
-- **[ECO EXPLORAR]([https://github.com/kausar017/ecommerce-project](https://eco-explorer-assingment9.netlify.app/)):** A complete e-commerce solution with cart, payment integration, and user authentication.
-- **[Gadget Heaven]([https://github.com/kausar017/gadget-heaven](https://gedgat-heven-a8.netlify.app/)):** A gadget showcasing platform with user-friendly UI.
+- **[CINE HUB](https://b-10-a10-cine-hub.netlify.app/):** A responsive movie portal with add, delete, and favorite functionalities.
+- **[ECO EXPLORER](https://eco-explorer-assingment9.netlify.app/):** A complete e-commerce solution with cart, payment integration, and user authentication.
+- **[Gadget Heaven](https://gedgat-heven-a8.netlify.app/):** A gadget showcasing platform with user-friendly UI.
 
 
 
