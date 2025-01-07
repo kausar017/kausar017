@@ -152,6 +152,9 @@
 <h2 align="left">chart</h2>
 <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Red','Blue','Yellow'],datasets:[{label:'Votes',data:[12,19,3]}]}}" alt="Custom Chart" />
 
+### Custom Chart
+
+<img src="https://example.com/my-chart.png" alt="Custom Chart" width="600" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
