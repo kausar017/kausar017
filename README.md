@@ -130,7 +130,7 @@
 ### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10" width="100%" height="500px" style="object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10" style="width: 100%; height: 200px;" />
 </p>
 
 
