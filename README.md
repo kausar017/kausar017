@@ -1,4 +1,5 @@
-![WEV-DEVOLOPAR](https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true)
+<img src="https://github.com/kausar017/cover-img/blob/main/Black%20and%20Red%20Modern%20Advertising%20Company%20Facebook%20Cover.png?raw=true" alt="WEB-DEVELOPER" style="max-height: 200px; width: 100%; object-fit: cover;" />
+
 
 # Hi there 👋,
 # My name is: KAUSAR MIA
