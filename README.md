@@ -148,9 +148,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kausar017 /count.svg?"  />
 </div>
----
-###
 
+###
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
 
