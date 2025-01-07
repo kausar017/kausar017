@@ -142,6 +142,13 @@
 </p>
 
 
+<h2 align="left">snack</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/kausar017 /kausar017 /output/snake.svg" alt="Snake animation" />
+
+###
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
 
