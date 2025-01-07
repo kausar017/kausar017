@@ -71,6 +71,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kausar017/contributions?format=svg&private=false)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kausar017)
+
+
+
 ![GitHub metrics](https://metrics.lecoq.io/kausar017)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kausar017)
