@@ -128,10 +128,11 @@
 
 
 
-###  Top Languages
+### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausar017&theme=radical&langs_count=10" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kausar017&show_icons=true&theme=radical" width="45%" />
