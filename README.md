@@ -149,6 +149,11 @@
 <img src="https://raw.githubusercontent.com/kausar017/kausar017/output/snake.svg" alt="Snake animation" />
 ###
 
+<h2 align="left">chart</h2>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Red','Blue','Yellow'],datasets:[{label:'Votes',data:[12,19,3]}]}}" alt="Custom Chart" />
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kausar017&color=green&style=flat-square)
 
 ![GitHub Followers](https://img.shields.io/github/followers/kausar017?style=social&color=purple)
