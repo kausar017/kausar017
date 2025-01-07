@@ -151,7 +151,7 @@ Hi there! I'm Kausar Mia 👨‍💻
 I'm a passionate programmer with a strong interest in web and software development. My goal is to become a full-stack developer and build innovative and impactful projects.
 
 📚 Lifelong Learner:
-# . Currently, I'm diving deep into React.js, Node.js, and JavaScript.
+#### Currently, I'm diving deep into React.js, Node.js, and JavaScript.
 # I love learning new technologies and improving my skills every day.
 
 💼 Freelancing Enthusiast:
