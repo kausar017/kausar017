@@ -119,10 +119,6 @@
 </p>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kausar017&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 ---
-
-<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['9','10','11','12','13','14','15','16','17','18'],datasets:[{label:'Contributions',data:[3,6,4,7,3,0,0,2,4,14]}]}}" alt="Contribution Graph" />
----
-
 ## 🌐 Connect with Me
 ###
 
