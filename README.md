@@ -7,7 +7,8 @@
 ### WEB-DEVELOPER
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=rgba(223, 84, 181, 0.7)&size=50&center=true&vCenter=true&width=600&height=100&lines=HI%F0%9F%98%8E;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?color=df54b5&size=50&center=true&vCenter=true&width=600&height=100&lines=HI%F0%9F%98%8E;I'm+Kausar+Mia;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+
 </p>
 
 <p align="center">
