@@ -117,7 +117,6 @@
  ## 🪐 GitHub Statistics and Streak
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kausar017&show_icons=true&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com/?username=kausar017&theme=dark&border_radius=5&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kausar017&theme=dark&border_radius=5&hide_border=true" width="48%" />
 
 </p>
