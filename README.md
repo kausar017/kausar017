@@ -1,5 +1,6 @@
 
-<img src="https://github.com/kausar017/cover-img/blob/main/cover%20GIf.gif?raw=true" alt="WEB-DEVELOPER" style="width: 100%; hight: 50vh" />
+<img src="https://github.com/kausar017/cover-img/blob/main/cover%20GIf.gif?raw=true" alt="WEB-DEVELOPER" style="width: 100%; height: 50vh;" />
+
 
 
 # Hi there 👋,
